@@ -1,2 +1,2 @@
-# danz-gantenk
+# kenon-by-danz
 Website
